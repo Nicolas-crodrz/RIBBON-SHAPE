@@ -7,7 +7,7 @@ Básicamente consiste en una cinta en la esquina superior izquierda para destaca
 
 Está desarrollado con html y css:
 
-| PORCENTAJE| |
+| PORCENTAJE| x|
 |---|---|
 | HTML | 15 % |
 | CSS | 58 % |
