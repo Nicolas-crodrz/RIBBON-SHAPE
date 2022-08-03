@@ -5,7 +5,7 @@
 
 Básicamente consiste en una cinta en la esquina superior izquierda para destacar ciertos productos de una tienda.
 
-Está desarrollado con html y css:
+Está desarrollado con html y css: 
 
 | PORCENTAJE| x|
 |---|---|
